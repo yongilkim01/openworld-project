@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yongi\\onedrive\\projects\\openworld-project\\openworldproject\\source\\openworldproject\\openworldproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\yongi\\onedrive\\projects\\openworld-project\\openworldproject\\intermediate\\build\\win64\\x64\\openworldprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\yongi\\onedrive\\projects\\openworld-project\\openworldproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\openworldproject\\definitions.openworldproject.h",
+            "c:\\users\\yongi\\onedrive\\projects\\openworld-project\\openworldproject\\source\\openworldproject\\openworldproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

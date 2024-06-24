@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OpenWorldProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\yongi\OneDrive\projects\openworld-project\OpenWorldProject\Intermediate\Build\Win64\x64\OpenWorldProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\yongi\OneDrive\projects\openworld-project\OpenWorldProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenWorldProject\OpenWorldProject.cpp.obj"
+"C:\Users\yongi\OneDrive\projects\openworld-project\OpenWorldProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenWorldProject\Default.rc2.res"
+/OUT:"C:\Users\yongi\OneDrive\projects\openworld-project\OpenWorldProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenWorldProject\UnrealEditor-OpenWorldProject.lib"

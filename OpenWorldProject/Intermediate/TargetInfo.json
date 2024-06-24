@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OpenWorldProject",
+			"Path": "..\\Source\\OpenWorldProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OpenWorldProjectEditor",
+			"Path": "..\\Source\\OpenWorldProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
