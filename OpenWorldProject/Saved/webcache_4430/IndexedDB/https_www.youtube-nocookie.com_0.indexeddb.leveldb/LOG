@@ -1,6 +1,8 @@
-2024/06/30-16:03:54.047 20a0 Creating DB C:/Users/yongi/OneDrive/projects/openworld-project/OpenWorldProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/06/30-16:03:54.065 20a0 Reusing MANIFEST C:/Users/yongi/OneDrive/projects/openworld-project/OpenWorldProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/30-16:10:04.597 5238 Level-0 table #5: started
-2024/06/30-16:10:04.610 5238 Level-0 table #5: 1167 bytes OK
-2024/06/30-16:10:04.612 5238 Delete type=0 #3
-2024/06/30-16:10:04.613 5238 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/22-19:57:49.113 4fb4 Reusing MANIFEST C:/Users/yongi/OneDrive/projects/openworld-project/OpenWorldProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/22-19:57:49.113 4fb4 Recovering log #7
+2024/07/22-19:57:49.114 4fb4 Reusing old log C:/Users/yongi/OneDrive/projects/openworld-project/OpenWorldProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/07/22-20:00:56.918 5dec Level-0 table #11: started
+2024/07/22-20:00:56.918 5dec Level-0 table #11: 0 bytes OK
+2024/07/22-20:00:56.920 5dec Delete type=0 #7
+2024/07/22-20:00:56.920 5dec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/22-20:00:56.920 5dec Manual compaction at level-1 from (begin) .. (end); will stop at (end)

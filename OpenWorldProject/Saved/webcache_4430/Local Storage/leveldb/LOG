@@ -1,3 +1,6 @@
-2024/06/30-22:34:05.294 4dfc Reusing MANIFEST C:/Users/yongi/OneDrive/projects/openworld-project/OpenWorldProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/06/30-22:34:05.295 4dfc Recovering log #3
-2024/06/30-22:34:05.295 4dfc Reusing old log C:/Users/yongi/OneDrive/projects/openworld-project/OpenWorldProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/07/22-19:56:39.319 380c Reusing MANIFEST C:/Users/yongi/OneDrive/projects/openworld-project/OpenWorldProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/22-19:56:39.326 380c Recovering log #3
+2024/07/22-19:56:39.327 380c Reusing old log C:/Users/yongi/OneDrive/projects/openworld-project/OpenWorldProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/07/22-19:57:44.631 380c Level-0 table #5: started
+2024/07/22-19:57:44.637 380c Level-0 table #5: 16578 bytes OK
+2024/07/22-19:57:44.640 380c Delete type=0 #3
